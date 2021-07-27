@@ -30,7 +30,7 @@ Pasta onde se encontram arquivos de dados para execução dos testes
 git clone linkdorepositorioondeestaoprojeto
 2. Abrindo o projeto na IDE:
 3. clique com o botão direito do mouse em cima da classe
-*TestCases/RealizaCompraComSucesso.java e execute-a.* 
+*TestCases/RealizaCompraComSucesso.java* e execute-a. 
 
 **Reports**
 * Projeto criado com o gerador de relatórios ExtendReports.
