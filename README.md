@@ -36,5 +36,5 @@ git clone linkdorepositorioondeestaoprojeto
 * Projeto criado com o gerador de relatórios ExtendReports.
 
 **Para visualizar os reports**
-* Abra a pasta *Report* gerada na raiz e localize o aquivo MyReport.html.
+* Abra a pasta *Report* gerada na raiz e localize o aquivo *MyReport.html.*
 
