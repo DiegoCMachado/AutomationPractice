@@ -1,5 +1,4 @@
 # AutomationPractice
-**AutomationPracticeAutomatedTests**
 ---
 Este projeto foi criado opara cumprir o desafio de automatizar um fluxo de compras no site MyStore.
 
