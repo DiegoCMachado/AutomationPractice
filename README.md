@@ -33,7 +33,7 @@ git clone linkdorepositorioondeestaoprojeto
 **TestCases/RealizaCompraComSucesso.java e execute-a.** 
 
 **Reports**
-Projeto criado com o gerador de relatórios ExtendReports.
+* Projeto criado com o gerador de relatórios ExtendReports.
 
 **Para visualizar os reports**
 Abra a pasta **Report** gerada na raiz e localize o aquivo MyReport.html.
